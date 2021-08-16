@@ -1,0 +1,15 @@
+commit d1fa48fa30845d80b725da9e1b1aba4723cbbe6f
+Author: Füstös Sándor <y028321@hu.generali.com>
+Date:   Mon Aug 16 10:58:41 2021 +0200
+
+    lorem hozzáadva
+
+commit f2b8a073f9a46d30682c2101948f1769ed4fe287
+Author: Füstös Sándor <y028321@hu.generali.com>
+Date:   Mon Aug 16 10:56:36 2021 +0200
+
+    gitignore hozzáadva
+
+commit 1ab4f59468d26c869b50aac818ecc63da9ad12a6
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Aug 16 08:14:03 2021 +0000
